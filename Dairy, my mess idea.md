@@ -66,3 +66,11 @@ By the way, don't pay attention to others' opinion, I am out of their commen sen
 
 `2026 4.2 THU`  
 今天尝试测试一下笔记本的续航，从早上8:30开始使用，此时电量为94%，希望能有七个小时的续航。
+
+`2026 4.7 TUE`
+这死了妈的辅导员又来找老子麻烦，你真tm活够了
+
+`2026 4.11 SAT`  
+明天要给老师写一篇工作汇报，今天晚上开始写吧。  
+
+

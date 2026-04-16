@@ -100,6 +100,8 @@ Press \<3gt\> to the third tab
 
 # AI
 
+aaabac
+
 ## Latex, a good helper for paper writer
 
 ## Science Computing
@@ -110,30 +112,22 @@ Press \<3gt\> to the third tab
 
 # Media record
 
-## OBS usage 
-### OBS设置有关的专业术语
-通用；输出；音频；视频；无障碍环境配置；高级选项
-
-
-1. How to set a screen source to OBS
-2. 
-
-## Ways to print the screen
-
-## Live-show and its tools' usage
-
 # Japanese
-
-I think maybe i should learn to speak Japanese, to feel its culture better.
-
 
 # ACG
 
 ## 洛克王国：世界
 
+2026.4.11，用小号（俄尔普斯）来玩洛克王国。  
+洛克王国里的素材大致分成以下几种**剧情故事**，**地图上的梗**，**角色/精灵的梗**。    
+
+### 按照地图检索
+
+- 丰裕谷这里有一排鸭子
+
 ## 异环
 
-## 明末：渊虚之羽
+## 明末：渊虚之羽                   
 
 ## 文明六
 
@@ -142,3 +136,4 @@ I think maybe i should learn to speak Japanese, to feel its culture better.
 # Photography
 
 # Mess Information
+
