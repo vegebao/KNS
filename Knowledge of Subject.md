@@ -1,5 +1,3 @@
-***Writing Ahead**: This file is a notebook about knowledge of subjects in my major(AI), including math, computer system, machine learning methords, algorithm, programming tips, and so on.*
-
 <!--This is the comment of Markdown, which is in the form of HTML-->
 <!--By the way, pay attention to "comment" in programming enviroment and "annotation" in writing enviroment, both of them are called "注释" in Chinese, but they are different-->
 
@@ -18,6 +16,23 @@
 # Computer Web
 
 # Machine Learning 
+
+## LTN
+
+### Breif
+
+LTN is a kind of 
+
+To learn LTN, we should go through FOL -> RL(Real Logic) -> LTN  
+
+
+
+
+## Restricted Boltzmann machines(menthioned in neural-symbolic computing)
+
+## VAE  
+
+## GAN
 
 # Large Language Model
 
